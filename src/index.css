@@ -1,0 +1,11 @@
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  font-size: 100px;
+}
+
+table th {
+  padding: 5px;
+}
